@@ -1,0 +1,23 @@
+{
+  "name": "GTA SF",
+  "short_name": "GTA SF",
+  "description": "Grand Theft Auto: San Francisco - browser-based 3D game built with Three.js",
+  "start_url": "/",
+  "display": "fullscreen",
+  "background_color": "#1a1a1a",
+  "theme_color": "#ff6b00",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
